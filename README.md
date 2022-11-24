@@ -4,15 +4,14 @@
 
 <!-- 소개 -->
 <h3>함께 할 때 더욱 빛이 나는 개발자, 조혜안입니다 😀</h3>
-______________________________________________________________________________
-
+<hr>
 <h4></h4>
 
 <!-- 뱃지 
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a> -->  
 
 [![포트폴리오](https://img.shields.io/badge/Portfolio-FF5A5F?style=for-the-badge&logo=moleculer&logoColor=white)](https://icy-territory-3d4.notion.site/c7f7d0b4d7924af1bb8bbb21ab16919c)
-[![노션](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://icy-territory-3d4.notion.site/c7f7d0b4d7924af1bb8bbb21ab16919c)
+[![노션](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://icy-territory-3d4.notion.site/8d2028fbc10f445c9bdb3699041e9c0a)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ashha)](https://solved.ac/ashha)
@@ -56,7 +55,6 @@ ______________________________________________________________________________
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/chohyean">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/chohyean?cardType=github&theme=github" alt="chohyean's GitHub Stats" /> -->
             <img src="https://github-readme-stats.vercel.app/api?username=chohyean&show_icons=true&hide=stars&hide_border=true" alt="chohyean's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
