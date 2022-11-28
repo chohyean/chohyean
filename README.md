@@ -10,12 +10,12 @@
 <!-- 뱃지 
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a> -->  
 
-[![포트폴리오](https://img.shields.io/badge/Portfolio-FF5A5F?style=for-the-badge&logo=moleculer&logoColor=white)](https://icy-territory-3d4.notion.site/c7f7d0b4d7924af1bb8bbb21ab16919c)
-[![노션](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://icy-territory-3d4.notion.site/8d2028fbc10f445c9bdb3699041e9c0a)
-
+[![포트폴리오](https://img.shields.io/badge/Portfolio-FF858B?style=for-the-badge&logo=moleculer&logoColor=white)](https://icy-territory-3d4.notion.site/c7f7d0b4d7924af1bb8bbb21ab16919c)
+[![노션](https://img.shields.io/badge/Notion-92a8d1?style=for-the-badge&logo=notion&logoColor=white)](https://icy-territory-3d4.notion.site/8d2028fbc10f445c9bdb3699041e9c0a)
+ 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ashha)](https://solved.ac/ashha)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchohyean&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchohyean&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=&icon_color=%23F7CAC9&title=hits&edge_flat=false) 
 
  </div>
 
@@ -45,17 +45,17 @@
  <table width="100%">
     <tbody>
       <tr>
-        <td width="50%" style="border: none !important;">
+        <td width="45%" >
         <div align="center" width="100%">
           <a href="https://github.com/chohyean">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohyean&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="chohyean's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohyean&hide=ruby&layout=compact&hide_border=true&langs_count=6&title_color=92a8d1&icon_color=FF858B" alt="chohyean's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
-        <td width="50%" style="border: none !important;">
+        <td width="55%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/chohyean">
-            <img src="https://github-readme-stats.vercel.app/api?username=chohyean&show_icons=true&hide_border=true" alt="chohyean's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=chohyean&show_icons=true&hide_border=true&title_color=92a8d1&icon_color=FF858B" alt="chohyean's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
