@@ -23,7 +23,7 @@
  
 <div align=center>
 
-### 💪Skills
+### 💪 Skills
 <br>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -35,17 +35,28 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+
  <br>
+ <br>
+ <br>
+ <a href="https://github.com/chohyean">
+            <img src="https://github-readme-stats.vercel.app/api?username=chohyean&show_icons=true&hide_border=true&title_color=92a8d1&icon_color=FF858B" alt="chohyean's GitHub Stats" vertical-align="middle"/>
+          </a>
+ 
+<!-- <br>
  <br>
  <br>
  <table width="100%">
     <tbody>
       <tr>
-        <td width="45%" >
+         <td width="45%" >
         <div align="center" width="100%">
           <a href="https://github.com/chohyean">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohyean&hide=ruby&layout=compact&hide_border=true&langs_count=6&title_color=92a8d1&icon_color=FF858B" alt="chohyean's Language Stats" vertical-align="middle"/>
@@ -61,7 +72,7 @@
         </td>
       </tr>
     </tbody>
-  <table>
+  <table> -->
 
 <br>
 <br>
@@ -69,8 +80,8 @@
 
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ashha)](https://solved.ac/ashha)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Solved.ac commit 히트맵](http://mazandi.herokuapp.com/api?handle=ashha&theme=warm)](https://solved.ac/ashha)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;
+[![Solved.ac commit 히트맵](http://mazandi.herokuapp.com/api?handle=ashha&theme=warm)](https://solved.ac/ashha) -->
 
 </div>
 
